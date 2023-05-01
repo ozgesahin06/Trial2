@@ -1,2 +1,2 @@
 # Trial2
-https://github.com/ozgesahin06/Trial2.git
+https://ozgesahin06.github.io/Trial2/
