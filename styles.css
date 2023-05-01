@@ -1,0 +1,28 @@
+body{
+    background-color: burlywood;
+    
+}
+h2{
+    font-size: 30px;
+    font-family: 'Courier New', Courier, monospace;
+    text-align: center;
+   
+}
+.heading{
+    font-size: 20px;
+    padding: auto;
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace;
+    color: brown;
+    
+}
+.info{
+    font-size: 20px;
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace;
+}
+/*****footer****/
+.footer{
+    margin-top: 15px;
+    background-color: grey;
+}
